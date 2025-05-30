@@ -1,6 +1,6 @@
 @article{jiang2025deepretrieval,
     title = {DeepRetrieval: Hacking Real Search Engines and Retrievers with Large Language Models via Reinforcement Learning},
     author = {Jiang, Pengcheng and Lin, Jiacheng and Cao, Lang and Tian, R. and Kang, S. and Wang, Z. and Sun, Jimeng and Han, Jiawei},
-    year = {2025},
     journal = {arXiv preprint arXiv: 2503.00223},
+    year = {2025},
 }
