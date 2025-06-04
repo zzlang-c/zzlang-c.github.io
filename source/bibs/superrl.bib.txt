@@ -1,0 +1,7 @@
+@article{liu2025superrl,
+    title = {SuperRL: Reinforcement Learning with Supervision to Boost Language Model Reasoning},
+    author = {Liu, Yihao and Li, Shuocheng and Cao, Lang and Xie, Yuhang and Zhou, Mengyu and Dong, Haoyu and Ma, Xiaojun and Han, Shi and Zhang, Dongmei},
+    year = {2025},
+    eprint = {2506.01096},
+    journal = {arXiv preprint arXiv: 2506.01096},
+}
