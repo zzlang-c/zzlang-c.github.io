@@ -2,5 +2,6 @@
     title = {TablePilot: Recommending Human-Preferred Tabular Data Analysis with Large Language Models}, 
     author = {Yi, Deyin and Liu, Yihao and Cao, Lang and Zhou, Mengyu and Dong, Haoyu and Han, Shi and Zhang, Dongmei},
     year = {2025},
+    eprint = {2503.13262},
     journal = {arXiv preprint arXiv: 2503.13262},
 }

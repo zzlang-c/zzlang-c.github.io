@@ -2,5 +2,6 @@
     title = {A foundation model for human-AI collaboration in medical literature mining}, 
     author = {Wang, Zifeng and Cao, Lang and Jin, Qiao and Chan, Joey and Wan, Nicholas and Afzali, Behdad and Cho, Hyun-Jin and Choi, Chang-In and Emamverdi, Mehdi and Gill, Manjot K. and Kim, Sun-Hyung and Li, Yijia and Liu, Yi and Ong, Hanley and Rousseau, Justin and Sheikh, Irfan and Wei, Jenny J. and Xu, Ziyang and Zallek, Christopher M. and Kim, Kyungsang and Peng, Yifan and Lu, Zhiyong and Sun, Jimeng},
     year = {2025},
+    eprint = {2501.16255},
     journal = {arXiv preprint arXiv: 2501.16255},
 }

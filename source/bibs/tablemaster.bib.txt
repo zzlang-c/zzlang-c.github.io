@@ -2,5 +2,6 @@
     title = {TableMaster: A Recipe to Advance Table Understanding with Language Models}, 
     author = {Cao, Lang and Liu, Hanbing},
     year = {2025},
+    eprint = {2501.19378},
     journal = {arXiv preprint arXiv: 2501.19378},
 }

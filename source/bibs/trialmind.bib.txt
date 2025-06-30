@@ -1,0 +1,7 @@
+@article{wang2024trialmind,
+    title = {Accelerating Clinical Evidence Synthesis with Large Language Models},
+    author = {Wang, Zifeng and Cao, Lang and Danek, Benjamin and Jin, Qiao and Lu, Zhiyong and Sun, Jimeng},
+    year = {2024},
+    eprint = {2406.17755},
+    journal = {arXiv preprint arXiv: 2406.17755},
+}
