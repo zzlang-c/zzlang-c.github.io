@@ -1,0 +1,6 @@
+@article{liu2025bingo,
+    title = {Bingo: Boosting Efficient Reasoning of LLMs via Dynamic and Significance-based Reinforcement Learning},
+    author = {Liu, Hanbing and Cao, Lang and Ren, Yuanyi and Zhou, Mengyu and Dong, Haoyu and Ma, Xiaojun and Han, Shi and Zhang, Dongmei},
+    journal = {arXiv preprint arXiv:2506.08125},
+    year = {2025}
+}
