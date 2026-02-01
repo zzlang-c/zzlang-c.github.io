@@ -1,6 +1,6 @@
 @article{jiang2025ras,
     title = {RAS: Retrieval-And-Structuring for Knowledge-Intensive LLM Generation},
-    author = {Jiang, Pengcheng and Cao, Lang and Zhu, Ruike and Jiang, Minhao and Zhang, Yunyi and Sun, Jimeng and Han, Jiawei},
+    author = {Jiang, Pengcheng and Cao, Lang and Zhu, Ruike and Jiang, Minhao and Zhang, Yunyi and Shen, Jiaming and Sun, Jimeng and Han, Jiawei},
     year = {2025},
     eprint = {2502.10996},
     journal = {arXiv preprint arXiv: 2502.10996},

@@ -1,0 +1,6 @@
+@article{cao2026ehrrag,
+    title = {EHR-RAG: Bridging Long-Horizon Structured Electronic Health Records and Large Language Models via Enhanced Retrieval-Augmented Generation},
+    author = {Cao, Lang and Chen, Qingyu and Guo, Yue},
+    journal = {arXiv preprint arXiv:2601.21340},
+    year = {2026}
+}
