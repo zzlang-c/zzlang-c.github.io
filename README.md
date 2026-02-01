@@ -3,10 +3,10 @@
 * Personal homepage at https://zzlang-c.github.io
 * Reference: https://jonbarron.info/
 
-
 # Deploy
 
 ```shell
-hexo g
-hexo d
+git add .
+git commit -m'add xx'
+git push
 ```
