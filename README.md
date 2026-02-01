@@ -7,6 +7,6 @@
 
 ```shell
 git add .
-git commit -m'add xx'
+git commit -m'update'
 git push
 ```
