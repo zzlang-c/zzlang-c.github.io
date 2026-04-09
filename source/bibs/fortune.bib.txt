@@ -1,5 +1,5 @@
 @article{cao2025fortune,
-    title = {Fortune: Formula-Driven Reinforcement Learning for Symbolic Table Reasoning in Language Models},
+    title = {Formula-R1: Incentivizing LLM Reasoning over Complex Tables with Numerical Computation via Formula-Driven Reinforcement Learning},
     author = {Cao, Lang and Xu, Jingxian and Liu, Hanbing and Wang, Jinyu and Zhou, Mengyu and Dong, Haoyu and Han, Shi and Zhang, Dongmei},
     journal = {arXiv preprint arXiv:2505.23667},
     year = {2025}

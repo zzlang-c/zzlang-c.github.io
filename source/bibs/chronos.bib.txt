@@ -1,0 +1,6 @@
+@article{liu2026ragorlearning,
+    title = {RAG or Learning? Understanding the Limits of LLM Adaptation under Continuous Knowledge Drift in the Real World},
+    author = {Liu, Hanbing and Cao, Lang and Li, Yang},
+    journal = {arXiv preprint arXiv:2604.05096},
+    year = {2026}
+}

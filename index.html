@@ -34,8 +34,8 @@
                 <p>
                   Hi! 👋 Here is Lang Cao, a PhD student in Computer Science at the <a href="https://illinois.edu/" target="_blank">University of Illinois Urbana-Champaign</a> (UIUC), happily working with <a href="https://yueguo-50.github.io/" target="_blank">Prof. Guo Yue</a>.
                   <!-- I interned at <a href="https://www.microsoft.com/en-us/research/" target="_blank">Microsoft Research</a> for about one year, where I had a wonderful experience and was fortunate to collaborate with <a href="https://www.microsoft.com/en-us/research/people/hadong/" target="_blank">Haoyu Dong</a> and <a href="https://zmy.io/" target="_blank">Mengyu Zhou</a>. -->
-                  Previously, I interned at <a href="https://www.microsoft.com/en-us/research/" target="_blank">Microsoft Research</a> for about one year, where I worked on table reasoning and efficient reasoning with LLMs
-                  I also received my Master's degree in Computer Science from UIUC and earned my Bachelor's degree from <a href="http://english.whut.edu.cn/" target="_blank">Wuhan University of Technology</a> where I built a strong foundation in computer science and mathematics, as well as gained experience in natural language processing (NLP).
+                  Previously, I interned at <a href="https://www.microsoft.com/en-us/research/" target="_blank">Microsoft Research</a> for about one year, where I worked on table understanding and general reasoning with LLMs.
+                  I also received my Master's degree in Computer Science from UIUC and earned my Bachelor's degree from <a href="http://english.whut.edu.cn/" target="_blank">Wuhan University of Technology</a> where I built a strong foundation in computer science and engineering, as well as gained early experience in natural language processing (NLP).
                 </p>
                 <p>
                   I am an open researcher dedicated to advancing artificial intelligence (AI) and other technologies for the benefit of society and scientific progress.
@@ -45,7 +45,7 @@
                     <li>Improving the reasoning capabilities of LLMs</li>
                     <li>Applying LLMs to healthcare and medical reasoning</li>
                   </ul>
-                  <!-- Beyond AI research, I'm also an active practitioner and have some experience in Web3 and quantitative trading. -->
+                  Beyond AI research, I also have a little experience in Web3 and quantitative trading.
                 </p>
                 <p style="text-align:center">
                   <!-- <a href="mailto:langcao0820@gmail.com">Email</a> &nbsp;/&nbsp; -->
@@ -106,6 +106,50 @@
                 [AI for Health]
                 <em>EHR-RAG is a retrieval-augmented framework with time-aware, dual-path, and iterative retrieval, specifically designed for structured EHR data, enabling LLMs to reason effectively over long-horizon patient records.</em>
               </td>
+            </tr>
+            <tr>
+              <td style="padding:16px;width:25%;vertical-align:middle">
+                <div class="teaser-wrap">
+                  <abbr class="badge">ACL'26 Main</abbr>
+                  <img src="source/teasers/bingo.png" class="teaser" alt="teaser">
+                </div>
+              </td>
+              <td style="padding:8px;width:75%;vertical-align:middle">
+                <a href="https://arxiv.org/abs/2506.08125" target="_blank"><span class="papertitle">Not All Tokens Matter: Towards Efficient LLM Reasoning via Token Significance in Reinforcement Learning</span></a>
+                <br>
+                Hanbing Liu, <strong>Lang Cao</strong>, Yuanyi Ren, Mengyu Zhou, Haoyu Dong, Xiaojun Ma, Shi Han, Dongmei Zhang
+                <br>
+                <strong>ACL'26 Main</strong>, 2026
+                <br>
+                <a href="source/bibs/bingo.bib.txt" target="_blank">bibtex</a> /
+                <a href="https://arxiv.org/abs/2506.08125" target="_blank">paper</a> /
+                <a href="https://github.com/microsoft/Bingo" target="_blank">code</a>
+                <br>
+                [LLM Reasoning]
+                <em>Bingo is a reinforcement learning framework that trains LLMs for efficient reasoning by combining significance-aware and dynamic length rewards, improving both accuracy and efficiency across reasoning benchmarks.</em>
+              </td>
+            </tr>
+            <tr>
+              <td style="padding:16px;width:25%;vertical-align:middle">
+                <div class="teaser-wrap">
+                  <abbr class="badge">Preprint, 2026</abbr>
+                  <img src="source/teasers/chronos.jpg" class="teaser" alt="teaser">
+                </div>
+              </td>
+              <td style="padding:8px;width:75%;vertical-align:middle">
+                <a href="https://arxiv.org/abs/2604.05096" target="_blank"><span class="papertitle">RAG or Learning? Understanding the Limits of LLM Adaptation under Continuous Knowledge Drift in the Real World</span></a>
+                <br>
+                Hanbing Liu*, <strong>Lang Cao</strong>*, Yang Li
+                <br>
+                <em>ACL'26 Findings</em>, 2026
+                <br>
+                <a href="source/bibs/chronos.bib.txt" target="_blank">bibtex</a> /
+                <a href="https://arxiv.org/abs/2604.05096" target="_blank">paper</a> / 
+                <a href="https://github.com/zzlang-c/chronos" target="_blank">code</a>
+                <br>
+                [LLM & RAG]
+                <em>This work introduces a new benchmark for evaluating LLMs under continuous knowledge drift and propose Chronos, a time-aware retrieval framework that enables temporally consistent reasoning over evolving real-world information without additional training.
+               </td>
             </tr>
             <tr>
               <td style="padding:16px;width:25%;vertical-align:middle">
@@ -184,7 +228,7 @@
                 </div>
               </td>
               <td style="padding:8px;width:75%;vertical-align:middle">
-                <a href="https://arxiv.org/abs/2505.23667" target="_blank"><span class="papertitle">Fortune: Formula-Driven Reinforcement Learning for Symbolic Table Reasoning in Language Models</span></a>
+                <a href="https://arxiv.org/abs/2505.23667" target="_blank"><span class="papertitle">Formula-R1: Incentivizing LLM Reasoning over Complex Tables with Numerical Computation via Formula-Driven Reinforcement Learning</span></a>
                 <br>
                 <strong>Lang Cao</strong>, Jingxian Xu, Hanbing Liu, Jinyu Wang, Mengyu Zhou, Haoyu Dong, Shi Han, Dongmei Zhang
                 <br>
@@ -196,28 +240,6 @@
                 <br>
                 [LLM for Table Understanding]
                 <em>Formula Tuning (Fortune) is a reinforcement learning approach that enables language models to perform symbolic table reasoning by deriving executable spreadsheet formulas.</em>
-              </td>
-            </tr>
-            <tr>
-              <td style="padding:16px;width:25%;vertical-align:middle">
-                <div class="teaser-wrap">
-                  <abbr class="badge">Preprint, 2025</abbr>
-                  <img src="source/teasers/bingo.png" class="teaser" alt="teaser">
-                </div>
-              </td>
-              <td style="padding:8px;width:75%;vertical-align:middle">
-                <a href="https://arxiv.org/abs/2506.08125" target="_blank"><span class="papertitle">Bingo: Boosting Efficient Reasoning of LLMs via Dynamic and Significance-based Reinforcement Learning</span></a>
-                <br>
-                Hanbing Liu, <strong>Lang Cao</strong>, Yuanyi Ren, Mengyu Zhou, Haoyu Dong, Xiaojun Ma, Shi Han, Dongmei Zhang
-                <br>
-                <em>Preprint</em>, 2025
-                <br>
-                <a href="source/bibs/bingo.bib.txt" target="_blank">bibtex</a> /
-                <a href="https://arxiv.org/abs/2506.08125" target="_blank">paper</a> /
-                <a href="https://github.com/microsoft/Bingo" target="_blank">code</a>
-                <br>
-                [LLM Reasoning]
-                <em>Bingo is a reinforcement learning framework that trains LLMs for efficient reasoning by combining significance-aware and dynamic length rewards, improving both accuracy and efficiency across reasoning benchmarks.</em>
               </td>
             </tr>
             <tr>
@@ -346,7 +368,7 @@
                 <br>
                 <strong>Lang Cao</strong>
                 <br>
-                <strong>EMNLP'24 Main Conference</strong>, 2024
+                <strong>EMNLP'24 Main</strong>, 2024
                 <br>
                 <a href="source/bibs/l2r.bib.txt" target="_blank">bibtex</a> /
                 <a href="https://arxiv.org/abs/2311.01041" target="_blank">paper</a> /
@@ -390,7 +412,7 @@
                 <br>
                 <strong>Lang Cao</strong>, Zifeng Wang, Cao Xiao, Jimeng Sun
                 <br>
-                <strong>NAACL'24 Main Conference</strong>, 2024
+                <strong>NAACL'24 Main</strong>, 2024
                 <br>
                 <a href="source/bibs/pilot.bib.txt" target="_blank">bibtex</a> /
                 <a href="https://arxiv.org/abs/2401.15770" target="_blank">paper</a> /
@@ -670,7 +692,7 @@
               <td style="padding:0px">
                 <br>
                 <p style="text-align:center;font-size:small;">
-                  © Copyright <span id="year"></span> Lang Cao (last updated March 19, 2026).
+                  © Copyright <span id="year"></span> Lang Cao (last updated April 9, 2026).
                   <!-- Thanks to Jon Barron for the <a href="https://github.com/jonbarron/jonbarron_website">website template</a>. -->
                 </p>
                 <script>
