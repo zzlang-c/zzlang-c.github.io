@@ -1,0 +1,7 @@
+@inproceedings{guan2026supchain,
+    title = {SupChain-Bench: Benchmarking Large Language Models for Real-World Supply Chain Management},
+    author = {Guan, Shengyue and Liu, Yihao and Cao, Lang},
+    booktitle = {Findings of the Association for Computational Linguistics: ACL 2026},
+    year = {2026},
+    note = {arXiv:2602.07342}
+}
